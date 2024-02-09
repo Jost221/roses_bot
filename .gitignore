@@ -1,4 +1,5 @@
 /.vscode
-/Users.db
 /__pycache__
 /env
+*.db
+/migrations
